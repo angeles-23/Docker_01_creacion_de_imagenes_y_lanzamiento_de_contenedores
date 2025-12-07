@@ -1,0 +1,12 @@
+{
+  "name": "hola-docker",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js con Express para demostrar Dockerfile",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
